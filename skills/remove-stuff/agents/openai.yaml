@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove Stuff"
+  short_description: "Remove requested features or content completely"
+  default_prompt: "Remove the requested feature, field, or content completely."
