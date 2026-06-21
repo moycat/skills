@@ -1,0 +1,4 @@
+interface:
+  display_name: "Init AGENTS.md"
+  short_description: "Create repository-specific AGENTS.md guidance"
+  default_prompt: "Initialize AGENTS.md for this repository."

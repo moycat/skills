@@ -1,0 +1,11 @@
+{
+  "name": "moycat-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portable Agent Skills collection",
+  "license": "GPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs"
+  }
+}
