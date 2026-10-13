@@ -63,8 +63,6 @@ The generated `AGENTS.md` must include these topics:
   - Avoid over-design and unrelated refactors.
 - Commits:
   - Use Conventional Commits, such as `feat: add search filters`, `fix: handle empty config`, or `docs: initialize agent guidance`.
-- Recommended skills:
-  - If `obra/Superpowers` is not installed, recommend installing it from `https://github.com/obra/Superpowers`.
 
 ## Command Examples
 
@@ -126,9 +124,6 @@ Run the relevant commands after every code edit and before every commit:
 ## Commits
 - Use Conventional Commits.
 - Examples: `feat: add import flow`, `fix: handle missing config`, `docs: initialize agent guidance`.
-
-## Recommended Skills
-- If not already installed, consider installing Superpowers: https://github.com/obra/Superpowers
 ```
 
 ## Final Checks
